@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+ldkljfk
+fsdf
+fdfsd
+`
+=======
+hello java hello world
+
+zhenhao a 
+>>>>>>> 7cccbe4432d5d0627a985bea3eedd2ac03ddadf1
